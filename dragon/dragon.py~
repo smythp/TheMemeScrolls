@@ -1,0 +1,8 @@
+print("Dragon Realms [type play]")
+
+if input=play:
+
+    print ("0nce in a land where there are dragons and fairies and other mythical stuff you were born and your mama kicked you out of the house and said go on an adventure and you did.")
+
+else:
+    print ("TYPE PLAY Y0U DUMBO! DID YOU NOT READ THE INSTRUCTI0NS?!?!?!") 
